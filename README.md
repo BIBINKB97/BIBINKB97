@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bibin K B</h1>
 <h3 align="center">A passionate flutter developer from kerala</h3>
 <br>
-<img align="right" alt="coding width="200" height="200"  src="https://miro.medium.com/v2/resize:fit:1360/0*ygaHmPjQnVmEApdT.gif">
+<img align="right" alt="coding width="200"  src="https://miro.medium.com/v2/resize:fit:1360/0*ygaHmPjQnVmEApdT.gif">
 
 - 🌱 I’m currently learning firebase backend service
 
