@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Flutter , Dart , APIs , Local databases , DataStructure**
 
-- 📫 How to reach me **bibinkochumalayil007@gami.com**
+- 📫 How to reach me **bibinkochumalayil007@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
