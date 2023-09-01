@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning firebase backend service
 
-- 💬 Ask me about **Flutter , Dart , APIs , Local databases , DataStructure**
+- 💬 Ask me about **Flutter , Dart , APIs , DataStructure , Firebase **
 
 - 📫 How to reach me **bibinkochumalayil007@gamil.com**
 
