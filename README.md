@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  <img align="center" alt="coding" width="365" height="365" src="https://your-image-url-here.png">
+  <img align="center" alt="Coding" width="365" height="365" src="https://your-image-url-here.png">
 </p>
 
 <!-- About Me -->
@@ -41,4 +41,16 @@
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bibinkb97&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<!-- Recent Projects -->
+<h3 align="center">Recent Projects</h3>
+<p align="center">
+  <a href="https://github.com/your-project-1">
+    <img src="https://your-project-1-image-url.png" alt="Project 1" width="100" />
+  </a>
+  <a href="https://github.com/your-project-2">
+    <img src="https://your-project-2-image-url.png" alt="Project 2" width="100" />
+  </a>
+  <!-- Add more project tiles as needed -->
 </p>
