@@ -8,7 +8,7 @@
 
 - 💬 Ask me about ** Flutter , Dart , APIs , DataStructure , Firebase **
 
-- 📫 How to reach me ** bibinkochumalayil007@gamil.com **
+- 📫 How to reach me 👉** bibinkochumalayil007@gamil.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
