@@ -4,7 +4,7 @@
 <br>
 <img align="right" alt="coding width="365" height="365" src="https://camo.githubusercontent.com/83990d9e67ea5149f4047d40934f7d4215a0280aa06ee2434d654cd8048ae36a/68747470733a2f2f692e70696e696d672e636f6d2f353634782f32312f33612f36312f32313361363164633863333038656634663232373739643732613231346565322e6a7067">
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning firebase backend services
 
 - 💬 Ask me about ** Flutter , Dart , APIs , DataStructure , Firebase **
 
