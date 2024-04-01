@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Bibin K B</h1>
 <h3 align="center">A passionate flutter developer from kerala </h3>
 <br>
-<img align="right" alt="coding width="340" height="340" src="https://in.images.search.yahoo.com/images/view;_ylt=AwrKFjIv5dFlwGYXcFa9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2ZjYzUwZTRiNzE3YjFmNTZlOWM1OTBiZjUxMjdlOGVmBGdwb3MDNDEEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dgithub%2Bcoding%2Banimation%2Bimages%26fr%3Dmcafee%26tab%3Dorganic%26ri%3D41&w=474&h=266&imgurl=repository-images.githubusercontent.com%2F462900780%2F0a10af70-6cbf-46df-9071-0ff586a3b1d6&rurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&size=845.5KB&p=github+coding+animation+images&oid=fcc50e4b717b1f56e9c590bf5127e8ef&fr2=&fr=mcafee&tt=gifs+%C2%B7+GitHub+Topics+%C2%B7+GitHub&b=0&ni=140&no=41&ts=&tab=organic&sigr=b9FzTAw68SfW&sigb=LG3MsWYWou.q&sigi=1Vd4AYCB4qpg&sigt=.NHwctVy3EsS&.crumb=yeux9f1TTNB&fr=mcafee">
-
 
 - 🌱 Currently I’m learning Node.js
 
